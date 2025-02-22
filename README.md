@@ -6,7 +6,7 @@
 
 https://github.com/user-attachments/assets/80876d01-cd7d-4ff0-aaca-07772ef59621
 
-*Normally runs at stable 30fps, recording software slowed the simulation down*
+*(Normally runs at stable 30fps, recording software slowed the simulation down)*
 
 
 ## Controls
