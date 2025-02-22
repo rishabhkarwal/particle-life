@@ -28,6 +28,7 @@ Interaction Parameters: Modify values to control how particles interact with eac
 
 Display Settings: Configure the simulation's height, width, and colour schemes to personalise its appearance
 
+## 
 /* Rishabh Karwal */
 
 [Discord](https://discordapp.com/users/instxts)
