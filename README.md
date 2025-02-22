@@ -2,6 +2,11 @@
 *A minimalistic particle simulation built with Python, Pygame, Numba, and Pillow*
 *Particles interact via attractive/repulsive forces, creating dynamic and organic behavior*
 
+## Example
+https://github.com/user-attachments/assets/80876d01-cd7d-4ff0-aaca-07772ef59621
+*Normally runs at stable 30fps, recording software slowed the simulation down*
+
+
 ## Controls
 ### Toggle Menu:
 Left-click to open/close the menu
