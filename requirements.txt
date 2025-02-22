@@ -1,0 +1,4 @@
+numba
+pillow
+pygame
+numpy
