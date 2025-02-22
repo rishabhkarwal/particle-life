@@ -3,7 +3,9 @@
 *Particles interact via attractive/repulsive forces, creating dynamic and organic behavior*
 
 ## Example
+
 https://github.com/user-attachments/assets/80876d01-cd7d-4ff0-aaca-07772ef59621
+
 *Normally runs at stable 30fps, recording software slowed the simulation down*
 
 
@@ -27,4 +29,5 @@ Interaction Parameters: Modify values to control how particles interact with eac
 Display Settings: Configure the simulation's height, width, and colour schemes to personalise its appearance
 
 /* Rishabh Karwal */
+
 [Discord](https://discordapp.com/users/instxts)
