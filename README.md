@@ -1,5 +1,6 @@
 # Particle Life Simulation
 *A minimalistic particle simulation built with Python, Pygame, Numba, and Pillow*
+
 *Particles interact via attractive/repulsive forces, creating dynamic and organic behavior*
 
 ## Example
